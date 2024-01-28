@@ -1,0 +1,1 @@
+Sum of column Price: 4650
